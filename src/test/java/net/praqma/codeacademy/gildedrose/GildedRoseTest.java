@@ -17,5 +17,9 @@ public class GildedRoseTest {
     public void bar() {
         assertEquals("bar", "bar");
     }
+    @Test
+    public void bar2() {
+        assertEquals("bar", "bar");
+    }
 
 }
