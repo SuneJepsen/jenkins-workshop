@@ -13,5 +13,9 @@ public class GildedRoseTest {
         app.updateQuality();
         assertEquals("foo", app.items[0].name);
     }
+    @Test
+    public void bar() {
+        assertEquals("bar", "bar");
+    }
 
 }
