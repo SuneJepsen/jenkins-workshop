@@ -3,7 +3,7 @@ package net.praqma.codeacademy.gildedrose;
 import static org.junit.Assert.*;
 
 import org.junit.Test;
-
+// Doesent work !
 public class GildedRoseTest {
 
     @Test
